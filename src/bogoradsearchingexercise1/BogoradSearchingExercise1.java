@@ -1,6 +1,7 @@
 /*J Bogorad
 Nov 17, 2026
-Book searching program*/
+Book searching program
+*/
 package bogoradsearchingexercise1;
 
 import java.util.Scanner;

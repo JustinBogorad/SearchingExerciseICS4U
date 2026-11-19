@@ -1,6 +1,7 @@
 /*J Bogorad
 Nov 17, 2026
-Book class*/
+Book class
+*/
 package bogoradsearchingexercise1;
 
 public class Book {
